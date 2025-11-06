@@ -1,6 +1,8 @@
 
 # 🧠 AI Drawboard Backend
 
+[Here is the frontend repo](https://github.com/Master-Faraz/Ai-Drawboard-Frontend)
+
 ![Node.js](https://img.shields.io/badge/node.js-18.x-green)
 
 This is the backend service for the **AI Drawboard** application, which enables features like user authentication and image analysis using **Google Generative AI**. Built with **Node.js**, **Express**, and **MongoDB**, it follows a modular and scalable architecture.
